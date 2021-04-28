@@ -9,10 +9,10 @@
   dependencies:
     "@aureooms/js-error" "^5.0.2"
 
-"@aureooms/js-compare@^1.4.5":
-  version "1.4.5"
-  resolved "https://registry.yarnpkg.com/@aureooms/js-compare/-/js-compare-1.4.5.tgz#8531ba35bf2ecb0ec6aca307674276e8dd65c81c"
-  integrity sha1-hTG6Nb8uyw7GrKMHZ0J26N1lyBw=
+"@aureooms/js-compare@^2.0.0":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@aureooms/js-compare/-/js-compare-2.0.1.tgz#4636ea0736945abbcca38d5bd56a1f405034b2f9"
+  integrity sha512-J+gG1wlwF401ySv0mOYhIIVUuoukvZaRkIwYNH9xZTLhRyI4VxoaFi3k8GA0ebjHqndLGYJS9uEeG3cuQcg+7w==
 
 "@aureooms/js-error@^5.0.0":
   version "5.0.1"

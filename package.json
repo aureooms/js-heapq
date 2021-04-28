@@ -27,7 +27,7 @@
     "url": "https://github.com/make-github-pseudonymous-again/js-heapq/issues"
   },
   "dependencies": {
-    "@aureooms/js-compare": "^1.4.5",
+    "@aureooms/js-compare": "^2.0.0",
     "@aureooms/js-error": "^5.0.0",
     "@aureooms/js-itertools": "^5.0.0"
   },
